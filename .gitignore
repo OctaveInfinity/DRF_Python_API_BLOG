@@ -1,4 +1,5 @@
 /.vscode
+/_
 gitignore
 Pipfile
 Pipfile.lock
